@@ -17,3 +17,6 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'sour fred';
 }
 
+function congratulateCustomer(){
+  return `congrats ${favoriteCustomer}`
+}
