@@ -5,4 +5,3 @@ function upperCaseCustomerName(){
   return customerName = customerName.toUpperCase();
 }
 
-const setBestCustomer()
