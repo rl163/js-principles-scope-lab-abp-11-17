@@ -12,3 +12,4 @@ function setBestCustomer(){
 function overwriteBestCustomer(newFavorite){
   bestCustomer = newFavorite;
 }
+
