@@ -2,5 +2,5 @@
 var customerName = 'bob';
 
 function upperCaseCustomerName(){
-  var bestCustomer = 'not bob'
+  return customerName = customerName.toUpperCase();
 }
